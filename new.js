@@ -7,7 +7,7 @@ class Person{
         this.salary=salary;
     }
 }
-const newPerson=new Person('sakib','al hasan',200);
+const newPerson=new Person('sakib','al  hasan',200);
 console.log(newPerson);
 
 const friendlyPerson=new Person('mashrafi','ahmed',400);
